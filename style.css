@@ -77,7 +77,7 @@ div {
 
 #start {
     top: 750px;
-    left: 670px;
+    left: 970px;
     padding: 30px;
     border: 2px solid white;
     border-radius: 50%;
@@ -88,4 +88,36 @@ div {
     top: 110px;
     left: 480px;
     text-align: center;
+}
+#bttn_park {
+    width: 75px;
+    top: 700px;
+    left: 275px;
+}
+#bttn_trac {
+    width: 75px;
+    top: 700px;
+    left: 355px;
+}
+#bttn_batt {
+    width: 75px;
+    top: 700px;
+    left: 435px;
+}
+#bttn_gas {
+    width: 75px;
+    top: 700px;
+    left: 515px;
+}
+
+#bttn_shifter {
+    width: 250px;
+    top: 700px;
+    left: 625px;
+}
+
+#bttn_start {
+    width: 130px;
+    top: 700px;
+    left: 1100px;
 }
